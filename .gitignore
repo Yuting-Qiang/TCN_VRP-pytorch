@@ -1,0 +1,11 @@
+data/vrd/*
+data/vg200/*
+expr_log.csv
+models/*
+project_log.md
+.ipynb_checkpoints/
+results/*
+tune_parameter.py
+Untitled.ipynb
+vis.ipynb
+
